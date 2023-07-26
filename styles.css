@@ -5,7 +5,6 @@ body.weedContainer {
     justify-content: center;
     font-family: outfit;
     text-align: center;
-
   }
 
   .mainContainer {
@@ -16,6 +15,8 @@ body.weedContainer {
     border-radius: 10px;
     display: flex;
     justify-content: center;
+    margin-top: 100px;
+    
   }
   .bottomContainer {
     width: 250px;
@@ -24,10 +25,7 @@ body.weedContainer {
     position: relative;
     top: 120px;
     right: 130px;
-    
-
   }
-
   .attribution {
     color: rgb(1, 1, 75);
     font-size: 8px; 
